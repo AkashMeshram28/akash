@@ -1,0 +1,3 @@
+Yash resume portal:
+	https://rms.yash.com/rms/editProfile/showProfile
+	
